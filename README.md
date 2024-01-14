@@ -12,6 +12,8 @@ Before running the code, ensure you have the required libraries installed. You c
 pip install -r requirements.txt
 ```
 
+- Note: First run sql.py to create the db then run app.py
+
 ### Setting up Environment Variables
 
 Create a `.env` file in the project directory and add your Google API key:
