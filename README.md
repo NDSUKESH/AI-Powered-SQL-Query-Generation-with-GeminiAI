@@ -24,3 +24,7 @@ GOOGLE_API_KEY=your_api_key_here
 Run the main.py file:
 ```run
 streamlit run app.py
+
+### USEAGE
+-1
+-2 dgdx
